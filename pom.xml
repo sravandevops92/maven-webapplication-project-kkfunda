@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>sample-release </name>
-	      <url>http://:8081/reposi16.170.7.130tory/flipkart-release/</url>
+	      <url>http://16.16.173.181:8081/repository/flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>sample-snapshots </name>
-	      <url>http://:8081/reposi16.170.7.130tory/flipkart-snapshot/</url>
+	      <url>http://16.16.173.181:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
