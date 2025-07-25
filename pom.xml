@@ -16,7 +16,7 @@
 		<url>http://kkfunda.com</url>
 	</organization>
 
-	<properties>
+      <properties>
 		<jdk.version>17</jdk.version>
 		<spring.version>5.3.34</spring.version>
 		<junit.version>4.11</junit.version>
@@ -27,7 +27,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-	</properties>
+	</properties> 
 
 	<dependencies>
 		
